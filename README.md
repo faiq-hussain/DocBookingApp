@@ -1,6 +1,6 @@
 # bookdoc
 
-A new Flutter project.
+A new Flutter project by Faiq Hussain.
 
 ## Getting Started
 
